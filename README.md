@@ -54,4 +54,4 @@ This dataset was compiled and first used in [Ding et al. (2014)](http://emnlp201
 
 Other papers cite this dataset:
 
-- https://www.ijcai.org/Proceedings/15/Papers/329.pdf
+- [Ding et al. (2015)](https://www.ijcai.org/Proceedings/15/Papers/329.pdf)
