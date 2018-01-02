@@ -46,7 +46,7 @@ Keith Gosman at
  kgosman@bloomberg.net  
  ```
 
-## Licensing
+## License
 
 This dataset was compiled and first used in [Ding et al. (2014)](http://emnlp2014.org/papers/pdf/EMNLP2014148.pdf).
 
