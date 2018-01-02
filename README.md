@@ -48,7 +48,7 @@ Keith Gosman at
 
 ## Licensing
 
-This dataset was compiled and first used in Ding et al. [2014].
+This dataset was compiled and first used in [Ding et al. (2014)](http://emnlp2014.org/papers/pdf/EMNLP2014148.pdf).
 
 - [Ding et al., 2014] Xiao Ding, Yue Zhang, Ting Liu, and Junwen Duan. Using structured events to predict stock price movement: An empirical investigation. In Proc. of EMNLP, pages 1415–1425, Doha, Qatar, October 2014. Association for Computational Linguistics.
 
