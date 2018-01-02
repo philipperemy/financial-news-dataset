@@ -45,3 +45,13 @@ Helen Yuan in  Shanghai  at
 Keith Gosman at 
  kgosman@bloomberg.net  
  ```
+
+## Licensing
+
+This dataset was compiled and first used in Ding et al. [2014].
+
+- [Ding et al., 2014] Xiao Ding, Yue Zhang, Ting Liu, and Junwen Duan. Using structured events to predict stock price movement: An empirical investigation. In Proc. of EMNLP, pages 1415–1425, Doha, Qatar, October 2014. Association for Computational Linguistics.
+
+Other papers cite this dataset:
+
+- https://www.ijcai.org/Proceedings/15/Papers/329.pdf
