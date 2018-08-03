@@ -1,6 +1,10 @@
 # Financial News Dataset from Bloomberg and Reuters
 450,341 news from Bloomberg and 109,110 news from Reuters
 
+## License
+
+- Very sorry to announce that those datasets are no longer available for research purposes (NLP...) due to copyright issues.
+
 ## Examples
 
 ### Reuters (109,110 news)
