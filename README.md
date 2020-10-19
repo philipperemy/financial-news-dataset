@@ -5,6 +5,8 @@
 
 **/!\\ Very sorry to announce that those datasets are no longer available for research purposes (NLP...) due to copyright issues. /!\\**
 
+To know more about me, feel free to contact me at premy.enseirb@gmail.com.
+
 ## Examples
 
 ### Reuters (109,110 news)
