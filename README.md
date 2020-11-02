@@ -1,5 +1,5 @@
 # Financial News Dataset from Bloomberg and Reuters
-450,341 news from Bloomberg and 109,110 news from Reuters
+450,341 news from Bloomberg and 109,110 news from Reuters.
 
 ## License
 
