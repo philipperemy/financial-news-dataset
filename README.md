@@ -5,7 +5,7 @@
 
 **/!\\ Very sorry to announce that those datasets are no longer available for research purposes (NLP...) due to copyright issues. /!\\**
 
-To know more about me, feel free to contact me at premy.enseirb@gmail.com and put the words "bloomberg dataset" in your email body.
+To know more about it, feel free to contact me at premy.enseirb@gmail.com and put the words "bloomberg dataset" in your email body.
 
 ## Examples
 
