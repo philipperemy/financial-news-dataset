@@ -3,7 +3,7 @@
 
 ## License
 
-**/!\\ Very sorry to announce that those datasets are no longer available for research purposes (NLP...) due to copyright issues. /!\\**
+**Very sorry to announce that those datasets are no longer available online for research purposes (NLP...) due to copyright issues.**
 
 If you have a request about it, send it to me at premy.enseirb@gmail.com and put the words "bloomberg dataset" in your email body.
 
