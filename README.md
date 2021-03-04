@@ -66,7 +66,7 @@ Other papers cite this dataset:
 ## Citation
 
 ```
-@misc{BloombergDataset,
+@misc{BloombergReutersDataset2015,
   author = {Philippe Remy, Xiao Ding},
   title = {Financial News Dataset from Bloomberg and Reuters},
   year = {2015},
