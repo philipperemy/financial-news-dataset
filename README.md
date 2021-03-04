@@ -61,3 +61,17 @@ This dataset was compiled and first used in [Ding et al. (2014)](http://emnlp201
 Other papers cite this dataset:
 
 - [Ding et al. (2015)](https://www.ijcai.org/Proceedings/15/Papers/329.pdf)
+
+
+## Citation
+
+```
+@misc{BloombergDataset,
+  author = {Philippe Remy, Xiao Ding},
+  title = {Financial News Dataset from Bloomberg and Reuters},
+  year = {2015},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/philipperemy/financial-news-dataset}},
+}
+```
