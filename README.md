@@ -7,6 +7,8 @@
 
 If you have a request about it, send it to me at premy.enseirb@gmail.com and put the words "bloomberg dataset" in your email body.
 
+Also the dataset is not updated because the access has been restricted by Bloomberg/Reuters a few years ago.
+
 ## Examples
 
 ### Reuters (109,110 news)
