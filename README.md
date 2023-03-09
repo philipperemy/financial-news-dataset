@@ -1,13 +1,11 @@
 # Financial News Dataset from Bloomberg and Reuters
 450,341 news from Bloomberg and 109,110 news from Reuters.
 
-## License
-
 **Very sorry to announce that those datasets are no longer available online for research purposes (NLP...) due to copyright issues.**
 
-If you have a request about it, send it to me at premy.enseirb@gmail.com and put the words "bloomberg dataset" in your email body.
+However, if you have a request about it, send it to me at premy.enseirb@gmail.com and put the words "bloomberg dataset" in your email body.
 
-Also the dataset is not updated because the access has been restricted by Bloomberg/Reuters a few years ago.
+Also the dataset is no longer updated because the access has been restricted by Bloomberg/Reuters a few years ago.
 
 ## Examples
 
